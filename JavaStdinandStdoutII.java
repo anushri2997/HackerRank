@@ -1,7 +1,7 @@
 #problem: https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 import java.util.Scanner;
 
-public class Solution {
+public class JavaStdinandStdoutII {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
